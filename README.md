@@ -1,1 +1,1 @@
-# redes-neurais-aula-pratica---publico
+# redes-neurais-aula-pratica-publico
